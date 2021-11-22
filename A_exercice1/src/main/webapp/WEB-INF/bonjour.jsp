@@ -9,6 +9,6 @@ Cette JSP sera appelée une fois que l'utilisateur est loggué
     <title>Title</title>
 </head>
 <body>
-
+<p>Bonjour, ${login}</p>
 </body>
 </html>
